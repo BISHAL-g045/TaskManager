@@ -20,7 +20,7 @@ export default function Home() {
   };
 
   return (
-    <main className="p-4">
+    <main className="p-4 bg-[#EAECC6] min-h-screen">
       <h1 className="text-2xl font-bold mb-4">Task List</h1>
       <AddForm />
       <div className="mb-4">
